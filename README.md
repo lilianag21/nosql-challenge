@@ -1,6 +1,6 @@
 # nosql-challenge
 
-The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. I've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles. In order to accomplish this, I have references previous class materials and resources to complete the following steps:
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. I've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles. In order to accomplish this, I have referenced previous class materials and resources to complete the following steps:
 
 Part 1: Database and Jupyter Notebook Set Up using NoSQL_setup_starter.ipynb: 
 1. Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to import your data from your Terminal to a markdown cell in your notebook.
@@ -13,6 +13,7 @@ Part 1: Database and Jupyter Notebook Set Up using NoSQL_setup_starter.ipynb:
 5. Assign the establishments collection to a variable to prepare the collection for use.
 
 Part 2: Update the Database using NoSQL_setup_starter.ipynb: 
+
 The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
 1. An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:
 
